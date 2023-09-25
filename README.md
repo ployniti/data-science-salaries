@@ -2,7 +2,7 @@
 
 - Authors: (Bryant Moji, Ploy Nitipiyaroj, Todd Hickam)
 
-As part of the 'PSU CS486/586 Intro to Database Systems' the following information relates the normalization of the 'data-science-salaries-2023' data set, links to the creation of those normalized relational tables, and the queries. The primary goals of this group project are spcified in [CS486 Project Instructions: PDF](../project_instructions/CS486_Project_Instructions.pdf)
+As part of the 'PSU CS486/586 Intro to Database Systems' the following information relates the normalization of the 'data-science-salaries-2023' data set, links to the creation of those normalized relational tables, and the queries.
 
 All tables and queries are based on the data set found on Kaggle. Follow the link below to find the Kaggle user that compiled this data set and the original /.csv file:
 

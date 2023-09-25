@@ -1,5 +1,7 @@
 # data-science-salaries
 
+This group project focused on building a relational database and querying the data within it using PostgreSQL.
+
 - Authors: (Bryant Moji, Ploy Nitipiyaroj, Todd Hickam)
 
 As part of the 'PSU CS486/586 Intro to Database Systems' the following information relates the normalization of the 'data-science-salaries-2023' data set, links to the creation of those normalized relational tables, and the queries.

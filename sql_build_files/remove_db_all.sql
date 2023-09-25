@@ -1,0 +1,14 @@
+DROP TABLE IF EXISTS group5.main CASCADE;
+DROP TABLE IF EXISTS group5.company_location CASCADE;
+DROP TABLE IF EXISTS group5.company_size CASCADE;
+DROP TABLE IF EXISTS group5.employee_residence CASCADE;
+DROP TABLE IF EXISTS group5.employment_type CASCADE;
+DROP TABLE IF EXISTS group5.experience CASCADE;
+DROP TABLE IF EXISTS group5.job_title CASCADE;
+DROP TABLE IF EXISTS group5.remote_ratio CASCADE;
+DROP TABLE IF EXISTS group5.salary CASCADE;
+DROP TABLE IF EXISTS group5.work_year CASCADE;
+DROP VIEW IF EXISTS group5.main_view CASCADE;
+
+
+DROP SCHEMA IF EXISTS group5;
